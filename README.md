@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello! I'm **[Hesham Alsaqqaf]**, a passionate **Backend Developer** with expertise in building scalable, secure, and efficient server-side applications. With a strong foundation in programming languages like **Python**, **Javascript**, and **Node.js**, I specialize in creating robust APIs, optimizing database queries, and ensuring seamless integration between frontend and backend systems.
+Hello! I'm **[Hesham Alsaqqaf]**, a passionate **Backend Developer** with expertise in building scalable, secure, and efficient server-side applications. With a strong foundation in programming languages like **Javascript**, **PHP**, and **Node.js**, I specialize in creating robust APIs, optimizing database queries, and ensuring seamless integration between frontend and backend systems.
 
 I thrive on solving complex problems and delivering high-performance solutions that meet business needs. My goal is to create impactful software that drives innovation and enhances user experiences.
 
