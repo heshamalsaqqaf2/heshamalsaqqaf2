@@ -6,7 +6,7 @@ I thrive on solving complex problems and delivering high-performance solutions t
 
 ## 🔧 Tech Stack
 
-![PHP](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript) ![Nest](https://img.shields.io/badge/-Nest.js-red?style=for-the-badge&logo=nestjs) ![Node.js](https://img.shields.io/badge/-node.js-brightgreen?style=for-the-badge&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript) ![Nest](https://img.shields.io/badge/-Nest.js-red?style=for-the-badge&logo=nestjs) ![Node.js](https://img.shields.io/badge/-node.js-brightgreen?style=for-the-badge&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql)
 
 <!--
 **heshamalsaqqaf2/heshamalsaqqaf2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
