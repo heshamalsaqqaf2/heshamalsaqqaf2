@@ -1,143 +1,257 @@
 <div align="center">
-  <!-- Header with Vibrant Gradient Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=200&section=header&text=Hesham%20Alsaqqaf&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
-  
-  <!-- Animated Gradient Title -->
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=F09819&center=true&vCenter=true&width=600&lines=Backend+Architect;Scalability+Expert;Clean+Code+Advocate" alt="Typing SVG" />
-  </h2>
-  
-  <!-- Glowing Social Badges -->
-  <a href="https://linkedin.com/in/hesham-alsaqqaf">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:F09819&height=250&section=header&text=Hesham%20Alsaqqaf&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Architect%20|%20System%20Designer&descAlignY=60&descSize=20" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.deno.dev?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=F09819&center=true&vCenter=true&width=650&lines=Backend+Architect;Scalability+Expert;Clean+Code+Advocate;System+Design+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/hesham-alsaqqaf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:hesham@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
+  <a href="mailto:hesham@example.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/hesham">
-    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1D9BF0&color=1D9BF0" />
+  <a href="https://twitter.com/hesham" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://hesham.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=000000" />
+  <a href="https://hesham.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=heshamalsaqqaf2&label=✨%20Visitors&color=7928CA&style=flat" />
+  <a href="https://github.com/heshamalsaqqaf2" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=heshamalsaqqaf2&label=✨%20Profile%20Views&color=7928CA&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/heshamalsaqqaf2?style=flat-square&color=FF0080&label=Followers&logo=person" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/heshamalsaqqaf2?style=flat-square&color=F09819&label=Stars&logo=star" alt="Stars" />
 </div>
 
 ---
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(255,0,128,0.05), rgba(121,40,202,0.05)); border-radius: 20px; padding: 20px; border: 1px solid rgba(255,255,255,0.05);">
-      <h3 align="center" style="background: linear-gradient(90deg, #FF0080, #7928CA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">🧬 About Me</h3>
-      <p style="color: #E6EDF3; line-height: 1.7;">
-        I'm <strong style="background: linear-gradient(90deg, #FF0080, #F09819); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hesham Alsaqqaf</strong>, a backend engineer obsessed with building <strong style="color: #F09819;">high-throughput</strong> and <strong style="color: #F09819;">bulletproof</strong> systems. 
-        <br/><br/>
-        With <strong style="color: #E6EDF3;">4+ years</strong> of experience, I turn complex business logic into elegant, scalable architectures. I breathe life into RESTful APIs, optimize databases to run at lightning speed, and design microservices that handle millions of requests effortlessly.
-        <br/><br/>
-        🚀 <strong style="color: #F09819;">Currently:</strong> Mastering Domain-Driven Design & Event Sourcing.
-      </p>
-    </td>
-    <td width="50%" valign="top" align="center" style="background: linear-gradient(135deg, rgba(121,40,202,0.05), rgba(240,152,25,0.05)); border-radius: 20px; padding: 20px; border: 1px solid rgba(255,255,255,0.05);">
-      <h3 style="background: linear-gradient(90deg, #F09819, #FF0080); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">⚡ Engineering Superpowers</h3>
-      <br/>
-      <p align="center" style="color: #E6EDF3; font-size: 16px;">
-        🔥 <strong>Scalability</strong> — Handling 10K+ concurrent users<br/>
-        🔒 <strong>Security</strong> — Zero-trust API design<br/>
-        🧩 <strong>Simplicity</strong> — Code that humans & machines love<br/>
-        📦 <strong>Microservices</strong> — Decoupled, resilient, and event-driven<br/>
-      </p>
-    </td>
-  </tr>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🧬 Who Am I?
+
+I'm **Hesham Alsaqqaf**, a backend engineer obsessed with building **high-throughput** and **bulletproof** systems.
+
+With **4+ years** of experience, I turn complex business logic into elegant, scalable architectures. I breathe life into RESTful APIs, optimize databases to run at lightning speed, and design microservices that handle millions of requests effortlessly.
+
+- 🚀 **Currently:** Mastering Domain-Driven Design & Event Sourcing
+- 🎯 **Focus:** Building scalable, secure, and maintainable systems
+- 💡 **Philosophy:** "Simple is better than complex"
+- 📚 **Learning:** System Design, Distributed Systems, Cloud Architecture
+- ⚡ **Fun fact:** I debug in my dreams!
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+### ⚡ Engineering Superpowers
+
+| Skill | Level |
+|-------|-------|
+| 🔥 Scalability | ██████████ 100% |
+| 🔒 Security | █████████░ 90% |
+| 🧩 Simplicity | ██████████ 100% |
+| 📦 Microservices | █████████░ 95% |
+| 🗄️ Databases | █████████░ 90% |
+| ☁️ Cloud | ████████░░ 85% |
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🛠️ The Modern Toolbox (Neon Edition)
+## 🛠️ The Modern Toolbox
 
-<div align="center">
-
-| 💻 **Languages** | ⚙️ **Frameworks & Runtimes** |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=ts,js,php" width="240" /> | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,nextjs" width="320" /> |
-
-| 🗄️ **Databases & Caching** | ☁️ **DevOps & Cloud** |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" width="280" /> | <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux" width="280" /> |
-
-| 🏗️ **Architectural DNA** |
-|:---:|
-| <span style="background: linear-gradient(90deg, #FF0080, #7928CA); padding: 8px 16px; border-radius: 30px; color: white; font-weight: bold;">REST APIs</span>  <span style="background: linear-gradient(90deg, #7928CA, #F09819); padding: 8px 16px; border-radius: 30px; color: white; font-weight: bold;">GraphQL</span>  <span style="background: linear-gradient(90deg, #F09819, #FF0080); padding: 8px 16px; border-radius: 30px; color: white; font-weight: bold;">WebSockets</span>  <span style="background: linear-gradient(90deg, #FF0080, #7928CA); padding: 8px 16px; border-radius: 30px; color: white; font-weight: bold;">Microservices</span>  <span style="background: linear-gradient(90deg, #7928CA, #F09819); padding: 8px 16px; border-radius: 30px; color: white; font-weight: bold;">DDD / CQRS</span> |
-
-</div>
-
----
-
-### 📈 Live Performance Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heshamalsaqqaf2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=7928CA&text_color=F09819&count_private=true&ring_color=7928CA" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamalsaqqaf2&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=F09819&langs_count=6" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=heshamalsaqqaf2&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FF0080&fire=F09819&currStreakLabel=7928CA&sideLabels=F09819&dates=E6EDF3" width="60%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshamalsaqqaf2&theme=react-dark&bg_color=0D1117&hide_border=true&color=7928CA&line=FF0080&point=F09819&area=true&area_color=7928CA" width="100%" />
-</div>
-
----
-
-### 💎 Featured Engineering Masterpieces
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(255,0,128,0.1), rgba(121,40,202,0.1)); border-radius: 16px; padding: 20px; border-left: 5px solid #FF0080;">
-      <h4 style="color: #FF0080;">🎟️ EventFlow Platform</h4>
-      <p style="color: #E6EDF3;">
-        High-concurrency ticketing system for 10K+ live users. Engineered real-time seat locking using WebSockets & Redis, achieving <strong style="color: #F09819;">zero overbooking</strong>.
-      </p>
-      <p><strong style="color: #7928CA;">Stack:</strong> NestJS, PostgreSQL, Redis, WebSockets</p>
-    </td>
-    <td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(121,40,202,0.1), rgba(240,152,25,0.1)); border-radius: 16px; padding: 20px; border-left: 5px solid #F09819;">
-      <h4 style="color: #F09819;">💳 FinTech API Gateway</h4>
-      <p style="color: #E6EDF3;">
-        Secure, rate-limited gateway processing <strong style="color: #F09819;">$2M+ monthly</strong> in transactions. Optimized queries reduced latency by <strong style="color: #FF0080;">40%</strong>.
-      </p>
-      <p><strong style="color: #7928CA;">Stack:</strong> Express, MongoDB, JWT, Docker</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📝 Latest Brain Dumps (Blog)
-
-- 🧠 [Mastering NestJS Guards & Interceptors](#) — *A deep dive into authentication.*
-- 🧠 [PostgreSQL vs. MongoDB: The Real-World Matrix](#) — *Making the right choice.*
-- 🧠 [Scaling Node.js: Beyond the Basics](#) — *Clusters, workers, and queues.*
-
----
-
-### 🤝 Let's Create the Future
-
-I'm always open to collaborating on ambitious projects or discussing system design over a virtual coffee. Reach out!
+### 💻 Languages
 
 <p align="center">
-  <a href="mailto:hesham@example.com">
-    <img src="https://img.shields.io/badge/📩_Collab_With_Me-FF0080?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=7928CA" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,py,go" alt="Languages" />
+</p>
+
+### ⚙️ Frameworks & Runtimes
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,nextjs,fastify,nest,graphql" alt="Frameworks" />
+</p>
+
+### 🗄️ Databases & Caching
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma" alt="Databases" />
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,linux,nginx,kubernetes" alt="DevOps" />
+</p>
+
+### 🏗️ Architectural Patterns
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-FF0080?style=for-the-badge&logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-7928CA?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-F09819?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF0080?style=for-the-badge&logo=microservice&logoColor=white" />
+  <img src="https://img.shields.io/badge/DDD/CQRS-7928CA?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event_Sourcing-F09819?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
 ---
 
-<!-- Glowing Footer -->
+## 📈 GitHub Analytics
+
 <div align="center">
-  <i style="background: linear-gradient(90deg, #FF0080, #F09819); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
-    “Elegant architecture is the silent poetry of the digital world.”
-  </i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=120&section=footer" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heshamalsaqqaf2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=7928CA&text_color=F09819&count_private=true&ring_color=7928CA" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamalsaqqaf2&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=F09819&langs_count=8" alt="Top Languages" width="49%"/>
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=heshamalsaqqaf2&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FF0080&fire=F09819&currStreakLabel=7928CA&sideLabels=F09819&dates=E6EDF3" alt="GitHub Streak" width="60%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=heshamalsaqqaf2&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophy" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshamalsaqqaf2&theme=react-dark&bg_color=0D1117&hide_border=true&color=7928CA&line=FF0080&point=F09819&area=true&area_color=7928CA" alt="Activity Graph" width="100%"/>
+</div>
+
+---
+
+## 💎 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎟️ EventFlow Platform
+
+**High-concurrency ticketing system** for 10K+ live users.
+
+- ⚡ Real-time seat locking using WebSockets & Redis
+- 🎯 Zero overbooking guarantee
+- 📊 99.99% uptime
+
+**Stack:** NestJS, PostgreSQL, Redis, WebSockets
+
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 FinTech API Gateway
+
+**Secure, rate-limited gateway** processing **$2M+ monthly** in transactions.
+
+- 🔒 Zero-trust security model
+- ⚡ 40% latency reduction through query optimization
+- 🛡️ Advanced rate limiting & fraud detection
+
+**Stack:** Express, MongoDB, JWT, Docker
+
+<p>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Microservices Framework
+
+**Production-ready microservices boilerplate** with DDD & CQRS.
+
+- 🧩 Modular architecture
+- 🔄 Event-driven communication
+- 📦 Docker & Kubernetes ready
+
+**Stack:** Node.js, RabbitMQ, gRPC, Kubernetes
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Analytics Engine
+
+**Real-time analytics platform** processing millions of events.
+
+- ⚡ Sub-second query response
+- 📈 Custom dashboards
+- 🔔 Real-time alerts
+
+**Stack:** Go, ClickHouse, Grafana, Kafka
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📝 Latest Articles
+
+<div align="center">
+
+| Article | Topic |
+|---------|-------|
+| 🧠 [Mastering NestJS Guards & Interceptors](#) | Authentication & Authorization |
+| 🧠 [PostgreSQL vs. MongoDB: The Real-World Matrix](#) | Database Design |
+| 🧠 [Scaling Node.js: Beyond the Basics](#) | Performance Optimization |
+| 🧠 [Event Sourcing in Practice](#) | Architecture Patterns |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on ambitious projects or discussing system design over a virtual coffee.
+
+<a href="mailto:hesham@example.com">
+  <img src="https://img.shields.io/badge/📩_Email_Me-FF0080?style=for-the-badge&logo=maildotru&logoColor=white" />
+</a>
+<a href="https://calendly.com/hesham">
+  <img src="https://img.shields.io/badge/📅_Book_a_Call-7928CA?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<i>"Elegant architecture is the silent poetry of the digital world."</i>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:F09819&height=150&section=footer" width="100%"/>
+
+</div>
+
+<!-- Optional: Snake Animation (requires GitHub Action) -->
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heshamalsaqqaf2/heshamalsaqqaf2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heshamalsaqqaf2/heshamalsaqqaf2/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heshamalsaqqaf2/heshamalsaqqaf2/output/github-contribution-grid-snake.svg">
+</picture>
+-->
