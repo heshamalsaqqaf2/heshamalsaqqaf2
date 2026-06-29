@@ -128,6 +128,15 @@ With **4+ years** of experience, I turn complex business logic into elegant, sca
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshamalsaqqaf2&theme=react-dark&bg_color=0D1117&hide_border=true&color=7928CA&line=FF0080&point=F09819&area=true&area_color=7928CA" alt="Activity Graph" width="100%"/>
 </div>
 
+<!-- Optional: Snake Animation (requires GitHub Action) -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heshamalsaqqaf2/heshamalsaqqaf2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heshamalsaqqaf2/heshamalsaqqaf2/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heshamalsaqqaf2/heshamalsaqqaf2/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
 ---
 
 ## 💎 Featured Projects
@@ -247,10 +256,50 @@ I'm always open to collaborating on ambitious projects or discussing system desi
 
 </div>
 
-<!-- Optional: Snake Animation (requires GitHub Action) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heshamalsaqqaf2/heshamalsaqqaf2/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heshamalsaqqaf2/heshamalsaqqaf2/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heshamalsaqqaf2/heshamalsaqqaf2/output/github-contribution-grid-snake.svg">
-</picture>
 
+<div align="center">
+  <h2>📊 Advanced GitHub Metrics</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heshamalsaqqaf2&theme=github_dark" alt="Profile Details" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heshamalsaqqaf2&theme=github_dark" alt="Stats" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshamalsaqqaf2&theme=github_dark" alt="Languages" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heshamalsaqqaf2&theme=github_dark" alt="Commit Languages" width="32%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heshamalsaqqaf2&theme=github_dark&utcOffset=3" alt="Productive Time" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repositories?username=heshamalsaqqaf2&theme=github_dark" alt="Repositories" width="49%"/>
+</div>
+
+
+<div align="center">
+  <h2>💻 Terminal Bio</h2>
+</div>
+
+```bash
+$ cat hesham.json
+{
+  "name": "Hesham Alsaqqaf",
+  "title": "Backend Architect",
+  "location": "Remote 🌍",
+  "experience": "4+ years",
+  "focus": [
+    "Scalable Systems",
+    "Microservices",
+    "Clean Architecture"
+  ],
+  "currently_learning": [
+    "Domain-Driven Design",
+    "Event Sourcing",
+    "Cloud Architecture"
+  ],
+  "tech_stack": {
+    "languages": ["TypeScript", "JavaScript", "PHP", "Go"],
+    "frameworks": ["NestJS", "Node.js", "Express", "Next.js"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis"],
+    "cloud": ["AWS", "Docker", "Kubernetes"]
+  },
+  "fun_fact": "I debug in my dreams! 🐛💭"
+}
