@@ -248,10 +248,9 @@ I'm always open to collaborating on ambitious projects or discussing system desi
 </div>
 
 <!-- Optional: Snake Animation (requires GitHub Action) -->
-<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heshamalsaqqaf2/heshamalsaqqaf2/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heshamalsaqqaf2/heshamalsaqqaf2/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heshamalsaqqaf2/heshamalsaqqaf2/output/github-contribution-grid-snake.svg">
 </picture>
--->
+
