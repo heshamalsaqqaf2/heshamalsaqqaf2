@@ -275,6 +275,12 @@ I'm always open to collaborating on ambitious projects or discussing system desi
 
 
 <div align="center">
+  <h2>🌐 3D Contributions</h2>
+  <img src="https://raw.githubusercontent.com/heshamalsaqqaf2/heshamalsaqqaf2/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%"/>
+</div>
+
+
+<div align="center">
   <h2>💻 Terminal Bio</h2>
 </div>
 
